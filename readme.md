@@ -32,4 +32,4 @@ Contribuições são bem-vindas! Se você tiver alguma sugestão, correção de 
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
+Este projeto está licenciado sob a [Licença MIT](license.md).
