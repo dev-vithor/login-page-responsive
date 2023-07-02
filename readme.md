@@ -3,7 +3,8 @@
 Este é um projeto de formulário para a aplicação EasyClass. O formulário permite que os usuários façam login ou se cadastrem na plataforma EasyClass.
 Não foi usado nenhum tipo de Banco de dados, Framework, Pré-processadores
 
-![Screenshot]("C:\Users\vitin\OneDrive\Imagens\Capturas de tela\Captura de tela 2023-07-01 210839.png")
+![Screenshot](./img/project.png)
+![Screenshot](./img/projectt.png)
 
 ## Recursos
 
